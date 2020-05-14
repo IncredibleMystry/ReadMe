@@ -32,3 +32,12 @@ After Opening this Choose **Option 2** For Automatic Configuration So that It wi
 Enter Name of Campaign, Choose Client(eg:Lucy) and Setup Mode.
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%203.png)
 ******
+## 5. Create Scenario
+### 1.Creating a new Scenario
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%204.jpg)
+### 2. Choose a Template for this Scenario
+There are Lots of Template given for free.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%205.png)
+### 3.Given information of that Scenario
+Given the information for this tempalte like name , Data collected(full,partial),Login, Password ,Domain IP and etc.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%206.png)
