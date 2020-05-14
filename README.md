@@ -54,3 +54,13 @@ And After This Change the Message Page that was going to victim through this mal
 Change the Landing Page which will come just after clicking the malicious Link.
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%209.png)
 #
+******
+## 6.Add Recipients
+**Add victim Details and Form a Group:-** Make a List of victim that will receive that maicious mail and add all in this group. It will Contains victim details like Email,Contact number,Name.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2010.png)
+******
+## 7.Add Recipient to Scenario
+**Added all the victim so that they got mails:-** 
+In this case we added three victims with different email ids and different templates.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2011.png)
+******
