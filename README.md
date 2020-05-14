@@ -87,5 +87,24 @@ In this it will get the Account Verfication Link Just by Login with Their userna
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2018.png)
 #
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2019.png)
+#
 After Login with It will show conformation Page
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2020.png)
+******
+## 10. Check for Attack Successfull
+The Statistics will show the result for this and given full information of that
+The green graph show the success of the attack. 
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2021.png)
+#
+******
+## 11. Collected Data
+The data will be stored in this scenerio and it will export so that we will use it.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2022.png)
+#
+And the **Password** for the Wikipedia will show here.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2023.png)
+#
+
+#### ATTACK HAS BEEN PERFORMED AND WE GOT VICTIM CREDENTIALS....
+
+## THANIK YOU...
