@@ -86,6 +86,6 @@ In this it will get the Account Verfication Link Just by Login with Their userna
 **It will show the Login page**
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2018.png)
 #
-![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2018.png)
-After Login with It will show conformation Page
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2019.png)
+After Login with It will show conformation Page
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2020.png)
