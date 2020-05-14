@@ -66,3 +66,26 @@ In this case we added three victims with different email ids and different templ
 ******
 ## 8.Ready For Attack
 Ready For Attack and it will start just by clicking the start button.
+In this choose **Restart** so that it will delete all previous datas and give a new start.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2012.png)
+#
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2013.png)
+#
+## 9. Victim got malicious mail 
+In this it will get the Account Verfication Link Just by Login with Their username and Password.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2014.png)
+#
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2015.png)
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2016.png)
+#
+**After this Login Credentials it will Just redirect to a Conformation page or with Error page .**
+#
+**Next victim for Wikipedia Link Just for Changing the Password**
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2017.png)
+# 
+**It will show the Login page**
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2018.png)
+#
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2018.png)
+After Login with It will show conformation Page
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2019.png)
