@@ -21,3 +21,4 @@ Vmware Player can be used to create a platform for this attack in every operatin
 ## 2.Open Lucy
 Opening Lucy With the help of Vmware will give all the Configurations that we used for the Attack.
 After Opening this Choose **Option 2** For Automatic Configuration So that It will Automatically give the **Login Id, Password and IP Address**.
+![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%201.png)
