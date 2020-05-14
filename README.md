@@ -1,6 +1,6 @@
 ## CNS PROJECT
 ### TOPIC- Email Phishing                                  
-### Submitted To:-                                        ###Submitted By:-
-***Dr. Ramesh Babu Battula***                             ***Aditya Kumar***
-***Assistant Professor***                                 ***2017ucp1555***
-***Dept. of CSE,MNIT,Jaipur***                            ***Batch(B3)***
+### Submitted By:- 
+***Aditya Kumar***
+***2017ucp1555***                                                   
+***Batch(B3)***
