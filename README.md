@@ -35,16 +35,22 @@ Enter Name of Campaign, Choose Client(eg:Lucy) and Setup Mode.
 ## 5. Create Scenario
 ### 1.Creating a new Scenario
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%204.jpg)
+#
 ### 2. Choose a Template for this Scenario
 There are Lots of Template given for free.
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%205.png)
+#
 ### 3.Given information of that Scenario
 Given the information for this tempalte like name , Data collected(full,partial),Login, Password ,Domain IP and etc.
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%206.png)
+#
 ### 4.Change the Scenario Setting
 In this we Can Change the Sender mail Address 
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%207.png)
+#
 And After This Change the Message Page that was going to victim through this malicious mail and set as per requirement.
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%208.png)
+#
 Change the Landing Page which will come just after clicking the malicious Link.
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%209.png)
+#
