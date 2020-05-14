@@ -80,7 +80,7 @@ In this it will get the Account Verfication Link Just by Login with Their userna
 #
 **After this Login Credentials it will Just redirect to a Conformation page or with Error page .**
 #
-**Next victim for Wikipedia Link Just for Changing the Password**
+**Next victim :- Wikipedia Link for Changing the Password**
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2017.png)
 # 
 **It will show the Login page**
@@ -88,10 +88,10 @@ In this it will get the Account Verfication Link Just by Login with Their userna
 #
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2019.png)
 #
-After Login with It will show conformation Page
+After Login It will show conformation Page
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2020.png)
 ******
-## 10. Check for Attack Successfull
+## 10.  Attack Statistics
 The Statistics will show the result for this and given full information of that
 The green graph show the success of the attack. 
 ![](https://github.com/IncredibleMystry/ReadMe/blob/master/Screenshot%2021.png)
